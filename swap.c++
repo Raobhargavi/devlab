@@ -1,4 +1,4 @@
-
+//swapping without using third variable
 #include <bits/stdc++.h>
 using namespace std;
 
